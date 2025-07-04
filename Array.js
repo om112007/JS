@@ -90,5 +90,12 @@ const isAdult = age1 >= 18 ? 'Adult' : 'Not Adult'
 
 console.log(isAdult);
 
+// function in js 
+function Sub(a,b){
+    console.log(a - b);
+}
+
+Sub( 10,20) ;
+
 
 
