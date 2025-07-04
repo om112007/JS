@@ -97,5 +97,11 @@ function Sub(a,b){
 
 Sub( 10,20) ;
 
+function Sum(a,b){
+    console.log(a + b);
+}
+
+Sum( 10,20) ;
+
 
 
